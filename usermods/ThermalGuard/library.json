@@ -1,0 +1,4 @@
+{
+  "name": "ThermalGuard",
+  "build": { "libArchive": false }
+}
